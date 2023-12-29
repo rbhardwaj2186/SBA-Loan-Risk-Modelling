@@ -1,3 +1,6 @@
+![iStock-804619352](https://github.com/rbhardwaj2186/SBA-Loan-Risk-Modelling/assets/143745073/179fb7ad-8b23-413f-9713-f227945bd62d)
+
+
 ## Project SBA Loan Risk Modelling
 
 **Here are some tips for submitting your project. You can use the points as partial check list before submission.**
