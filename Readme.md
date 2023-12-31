@@ -1,5 +1,11 @@
 ![iStock-804619352](https://github.com/rbhardwaj2186/SBA-Loan-Risk-Modelling/assets/143745073/179fb7ad-8b23-413f-9713-f227945bd62d)
 
+Is it better to approve or deny this loan?
+An upvote would be appreciated if you download the data set and like it.
+
+In order to help small firms get loans, the Small Business Administration (SBA) was established in 1953. In the US, small companies have historically been the main employer. Aiding small companies contributes to the development of jobs, which lowers unemployment. Growth of small businesses helps the economy expand as well. The SBA offers bank loan guarantees as one of its assistance programs for small companies. By lowering their risk, banks are encouraged to lend to small firms thanks to this assurance. The bank loses money on the remaining amount if the loan defaults, and the SBA pays the guaranteed amount.
+
+
 
 ## Project SBA Loan Risk Modelling
 
