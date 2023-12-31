@@ -7,7 +7,8 @@ In order to help small firms get loans, the Small Business Administration (SBA) 
 
 
 
-## Project SBA Loan Risk Modelling
+## Project SBA Loan Risk Modelling Guidelines
+
 
 **Here are some tips for submitting your project. You can use the points as partial check list before submission.**
 
