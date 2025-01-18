@@ -1,5 +1,24 @@
 ![iStock-804619352](https://github.com/rbhardwaj2186/SBA-Loan-Risk-Modelling/assets/143745073/179fb7ad-8b23-413f-9713-f227945bd62d)
 
+# SBA Loan Default Prediction System
+
+## Project Overview
+End-to-end machine learning system to predict loan defaults from the Small Business Administration (SBA) dataset using multiple modeling approaches. The system utilizes advanced feature engineering, model optimization techniques, and machine learning interpretability methods to achieve high prediction accuracy while maintaining model explainability.
+
+## Key Achievements
+- 86% AUCPR score on test dataset
+- 30% reduction in false positives through threshold optimization
+- Processing capability of 800K+ transaction records
+- Sub-100ms inference time per prediction
+- Advanced model interpretability using SHAP values
+
+## Project Structure
+```python
+├── Project-1-starter-v0.ipynb     # Initial model development and EDA
+├── SBA_Light_GBM_Optuna.ipynb     # Advanced LightGBM model with optimization
+├── Scoring.ipynb                  # Production scoring pipeline
+├── best_params.pkl               # Serialized model parameters
+
 Is it better to approve or deny this loan?
 An upvote would be appreciated if you download the data set and like it.
 
